@@ -1,0 +1,61 @@
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  -ms-text-size-adjust: 100%;
+  font-size: $font-base-size;
+  -webkit-text-size-adjust: 100%;
+  background: #000;
+
+  @media (max-width: $mq-tablet) {
+    font-size: 58%;
+  }
+}
+
+body {
+  //   @include font-size($font-body-size);
+  font-size: $font-body-size;
+  color: $color-text;
+  font-family: $font-global;
+}
+
+a {
+  color: $color-link;
+  text-decoration: none;
+}
+
+a,
+input,
+button {
+  &:focus {
+    outline: none;
+  }
+}
+
+button:focus,
+div:focus,
+figure:focus,
+input:focus {
+  outline: 0;
+}
+
+.img-responsive {
+  max-width: 100%;
+}
+
+ul,
+li {
+  padding: 0;
+  list-style: none;
+}
+
+.m_none {
+  margin: 0 !important;
+}

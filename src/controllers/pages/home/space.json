@@ -1,0 +1,1222 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "properties": {
+      "name": "EPSG:4326"
+    },
+    "type": "name"
+  },
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.6143658646649, -8.587349402973743],
+            [-78.61463705369562, -8.586443118738528],
+            [-78.61328468189879, -8.586031925191014],
+            [-78.61301643103185, -8.586944290283709],
+            [-78.6143658646649, -8.587349402973743]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.1.01",
+          "id": 1002,
+          "name": "ILUSION.O.1.01",
+          "state": {
+            "area": 1.63106,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": [
+          {
+            "date_stamp": "2018-12-10",
+            "measurement_unit": "d\u00edas",
+            "time_stamp": "00:00:00",
+            "value": 4.0
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61408542203351, -8.588287514153642],
+            [-78.61435916069992, -8.5873793416649],
+            [-78.61302750690085, -8.586989721359544],
+            [-78.61275685148335, -8.587895510044612],
+            [-78.61408542203351, -8.588287514153642]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.1.02",
+          "id": 1008,
+          "name": "ILUSION.O.1.02",
+          "state": {
+            "area": 1.5997,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": [
+          {
+            "date_stamp": "2018-12-10",
+            "measurement_unit": "d\u00edas",
+            "time_stamp": "00:00:00",
+            "value": 4.0
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61379879506603, -8.589238969394614],
+            [-78.61407467352883, -8.588322526996455],
+            [-78.61274508815117, -8.587926074912732],
+            [-78.61247070273208, -8.5888505333996],
+            [-78.61379879506603, -8.589238969394614]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.1.03",
+          "id": 1012,
+          "name": "ILUSION.O.1.03",
+          "state": {
+            "area": 1.62205,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": [
+          {
+            "date_stamp": "2018-12-10",
+            "measurement_unit": "d\u00edas",
+            "time_stamp": "00:00:00",
+            "value": 10.0
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61352682433647, -8.590193581574292],
+            [-78.61378581374909, -8.589288908853547],
+            [-78.612458897278, -8.588894219906077],
+            [-78.61219168556073, -8.589804582059289],
+            [-78.61352682433647, -8.590193581574292]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.1.04",
+          "id": 1016,
+          "name": "ILUSION.O.1.04",
+          "state": {
+            "area": 1.59758,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": [
+          {
+            "date_stamp": "2018-12-10",
+            "measurement_unit": "d\u00edas",
+            "time_stamp": "00:00:00",
+            "value": 10.0
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61324778193769, -8.591119103739649],
+            [-78.61351355407626, -8.590227550619593],
+            [-78.61218501605663, -8.589833131954856],
+            [-78.61191558928158, -8.590732432278038],
+            [-78.61324778193769, -8.591119103739649]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.1.05",
+          "id": 1021,
+          "name": "ILUSION.O.1.05",
+          "state": {
+            "area": 1.57897,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": [
+          {
+            "date_stamp": "2018-12-10",
+            "measurement_unit": "d\u00edas",
+            "time_stamp": "00:00:00",
+            "value": 6.0
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61567328157359, -8.587735043354389],
+            [-78.61594222078239, -8.586825809048442],
+            [-78.61463705369562, -8.586443118738528],
+            [-78.6143658646649, -8.587349402973743],
+            [-78.61567328157359, -8.587735043354389]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.1.10",
+          "id": 1001,
+          "name": "ILUSION.O.1.10",
+          "state": {
+            "area": 1.57141,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": [
+          {
+            "date_stamp": "2018-12-10",
+            "measurement_unit": "d\u00edas",
+            "time_stamp": "00:00:00",
+            "value": 6.0
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.6153895122624, -8.588672448180931],
+            [-78.61566453099604, -8.587767963102888],
+            [-78.61435916069992, -8.5873793416649],
+            [-78.61408542203351, -8.588287514153642],
+            [-78.6153895122624, -8.588672448180931]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.1.11",
+          "id": 1007,
+          "name": "ILUSION.O.1.11",
+          "state": {
+            "area": 1.5703,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": [
+          {
+            "date_stamp": "2018-12-10",
+            "measurement_unit": "d\u00edas",
+            "time_stamp": "00:00:00",
+            "value": 7.0
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61510819701937, -8.589620112066912],
+            [-78.6153795826418, -8.588713565928897],
+            [-78.61407467352883, -8.588322526996455],
+            [-78.61379879506603, -8.589238969394614],
+            [-78.61510819701937, -8.589620112066912]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.1.12",
+          "id": 1011,
+          "name": "ILUSION.O.1.12",
+          "state": {
+            "area": 1.58062,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": [
+          {
+            "date_stamp": "2018-12-10",
+            "measurement_unit": "d\u00edas",
+            "time_stamp": "00:00:00",
+            "value": 7.0
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61482957969595, -8.590585301917379],
+            [-78.61509689633921, -8.58967661094533],
+            [-78.61378581374909, -8.58928890885353],
+            [-78.61352682433647, -8.590193581574292],
+            [-78.61482957969595, -8.590585301917379]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.1.13",
+          "id": 1015,
+          "name": "ILUSION.O.1.13",
+          "state": {
+            "area": 1.56892,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61455168356424, -8.591516157379768],
+            [-78.61482207140463, -8.590616102451413],
+            [-78.61351355407626, -8.590227550619593],
+            [-78.61324778193769, -8.591119103739649],
+            [-78.61455168356424, -8.591516157379768]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.1.14",
+          "id": 1020,
+          "name": "ILUSION.O.1.14",
+          "state": {
+            "area": 1.55417,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61740276000953, -8.587222093291983],
+            [-78.61766129050368, -8.586343079817425],
+            [-78.61632702961381, -8.585961674785098],
+            [-78.61607665021037, -8.586823878776539],
+            [-78.61740276000953, -8.587222093291983]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.2.19",
+          "id": 1004,
+          "name": "ILUSION.O.2.19",
+          "state": {
+            "area": 1.53206,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["jewel"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.6171190751322, -8.588169165795579],
+            [-78.61739313048875, -8.587260131238297],
+            [-78.61606336072757, -8.58686924508823],
+            [-78.61579465503648, -8.587769286103597],
+            [-78.6171190751322, -8.588169165795579]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.2.20",
+          "id": 999,
+          "name": "ILUSION.O.2.20",
+          "state": {
+            "area": 1.59353,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["jewel"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61683689579016, -8.589107548924991],
+            [-78.61710894674039, -8.588205493456988],
+            [-78.61578265225526, -8.5878072537412],
+            [-78.61551173908997, -8.588709815046952],
+            [-78.61683689579016, -8.589107548924991]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.2.21",
+          "id": 1006,
+          "name": "ILUSION.O.2.21",
+          "state": {
+            "area": 1.58933,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["jewel"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61656250359084, -8.590048719500341],
+            [-78.6168246170142, -8.589150156707444],
+            [-78.61550187484696, -8.588746064367283],
+            [-78.61523298267362, -8.589656934986472],
+            [-78.61656250359084, -8.590048719500341]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.2.22",
+          "id": 1010,
+          "name": "ILUSION.O.2.22",
+          "state": {
+            "area": 1.59075,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["springhigh"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61627805276099, -8.591008478938093],
+            [-78.61655300471486, -8.590108676225634],
+            [-78.61521222229105, -8.589713733299455],
+            [-78.61494242923678, -8.590612470177044],
+            [-78.61627805276099, -8.591008478938093]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.2.23",
+          "id": 1014,
+          "name": "ILUSION.O.2.23",
+          "state": {
+            "area": 1.59769,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["springhigh"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61872478815036, -8.587619019049502],
+            [-78.61898119586762, -8.586734794154077],
+            [-78.61766129050368, -8.586343079817441],
+            [-78.61740276000953, -8.587222093291983],
+            [-78.61872478815036, -8.587619019049502]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.2.29",
+          "id": 1005,
+          "name": "ILUSION.O.2.29",
+          "state": {
+            "area": 1.54285,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["jewel"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61843615111509, -8.588567387324236],
+            [-78.61871569020178, -8.587653939122811],
+            [-78.61739313048875, -8.587260131238297],
+            [-78.6171190751322, -8.588169165795579],
+            [-78.61843615111509, -8.588567387324236]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.2.30",
+          "id": 1003,
+          "name": "ILUSION.O.2.30",
+          "state": {
+            "area": 1.59911,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["jewel"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61815150110804, -8.589497920411869],
+            [-78.61841859389018, -8.588602760234286],
+            [-78.61710894674039, -8.588205493456988],
+            [-78.61683689579016, -8.589107548924991],
+            [-78.61815150110804, -8.589497920411869]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.2.31",
+          "id": 1009,
+          "name": "ILUSION.O.2.31",
+          "state": {
+            "area": 1.56616,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["jewel"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61788398941518, -8.590454488204092],
+            [-78.61813994216112, -8.589538716955287],
+            [-78.6168246170142, -8.589150156707444],
+            [-78.61656250359084, -8.590048719500341],
+            [-78.61788398941518, -8.590454488204092]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.2.32",
+          "id": 1013,
+          "name": "ILUSION.O.2.32",
+          "state": {
+            "area": 1.58278,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["jewel"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61761977738166, -8.591409184460035],
+            [-78.61789449176855, -8.590501831773254],
+            [-78.61655300471486, -8.590108676225634],
+            [-78.61627805276099, -8.591008478938093],
+            [-78.61761977738166, -8.591409184460035]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.2.33",
+          "id": 1017,
+          "name": "ILUSION.O.2.33",
+          "state": {
+            "area": 1.61013,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["springhigh"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61295560716232, -8.592072521534597],
+            [-78.61323282465601, -8.591171179932054],
+            [-78.61190089523774, -8.590774699208607],
+            [-78.61162558844306, -8.591683590072115],
+            [-78.61295560716232, -8.592072521534597]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.3.06",
+          "id": 1026,
+          "name": "ILUSION.O.3.06",
+          "state": {
+            "area": 1.60019,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61267218237862, -8.59302008643807],
+            [-78.61294809495232, -8.592110301508175],
+            [-78.61161817276673, -8.591711528414494],
+            [-78.61134726698047, -8.592621500352939],
+            [-78.61267218237862, -8.59302008643807]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.3.07",
+          "id": 1030,
+          "name": "ILUSION.O.3.07",
+          "state": {
+            "area": 1.6046,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61238880556009, -8.593956027103168],
+            [-78.61266304209965, -8.593046315036853],
+            [-78.61133636578121, -8.592653069794464],
+            [-78.6110586548507, -8.59356658622583],
+            [-78.61238880556009, -8.593956027103168]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.3.08",
+          "id": 1034,
+          "name": "ILUSION.O.3.08",
+          "state": {
+            "area": 1.60728,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61210835137778, -8.594903097481081],
+            [-78.61238108310324, -8.593990590830725],
+            [-78.61105125157395, -8.59359640928806],
+            [-78.61078032656062, -8.594500808956191],
+            [-78.61210835137778, -8.594903097481081]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.3.09",
+          "id": 1038,
+          "name": "ILUSION.O.3.09",
+          "state": {
+            "area": 1.60304,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61426205571928, -8.592466085564173],
+            [-78.61453430691246, -8.591567102766613],
+            [-78.61323282465601, -8.591171179932054],
+            [-78.61295560716232, -8.592072521534597],
+            [-78.61426205571928, -8.592466085564173]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.3.15",
+          "id": 1025,
+          "name": "ILUSION.O.3.15",
+          "state": {
+            "area": 1.56248,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61398452987274, -8.593412014890054],
+            [-78.61425411660079, -8.592506209235436],
+            [-78.61294809495232, -8.592110301508175],
+            [-78.61267218237862, -8.59302008643807],
+            [-78.61398452987274, -8.593412014890054]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.3.16",
+          "id": 1029,
+          "name": "ILUSION.O.3.16",
+          "state": {
+            "area": 1.57915,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61370480098458, -8.594351164496246],
+            [-78.61397687138145, -8.593435747323321],
+            [-78.61266304209965, -8.593046315036853],
+            [-78.61238880556009, -8.593956027103168],
+            [-78.61370480098458, -8.594351164496246]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.3.17",
+          "id": 1033,
+          "name": "ILUSION.O.3.17",
+          "state": {
+            "area": 1.59277,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61342513037643, -8.595294545869232],
+            [-78.6136982054684, -8.5943810002498],
+            [-78.61238108310324, -8.593990590830725],
+            [-78.61210835137778, -8.594903097481081],
+            [-78.61342513037643, -8.595294545869232]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.3.18",
+          "id": 1037,
+          "name": "ILUSION.O.3.18",
+          "state": {
+            "area": 1.59521,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61599790788512, -8.591970894769565],
+            [-78.61626975971024, -8.591042454271943],
+            [-78.6149337659953, -8.590644545747258],
+            [-78.61466590517234, -8.591552548540461],
+            [-78.61599790788512, -8.591970894769565]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.4.24",
+          "id": 1019,
+          "name": "ILUSION.O.4.24",
+          "state": {
+            "area": 1.62683,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61570870086693, -8.592902954814177],
+            [-78.61598540670066, -8.592005239259864],
+            [-78.61465364424664, -8.591580620744152],
+            [-78.61437905710905, -8.592491197344156],
+            [-78.61570870086693, -8.592902954814177]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.4.25",
+          "id": 1023,
+          "name": "ILUSION.O.4.25",
+          "state": {
+            "area": 1.60657,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61542938236158, -8.593834715666404],
+            [-78.61569684657525, -8.592938701923837],
+            [-78.6143659394272, -8.592541911872638],
+            [-78.61409436027506, -8.593437390141656],
+            [-78.61542938236158, -8.593834715666404]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.4.26",
+          "id": 1028,
+          "name": "ILUSION.O.4.26",
+          "state": {
+            "area": 1.58536,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61514455117022, -8.594780319969553],
+            [-78.6154209027492, -8.593872531210964],
+            [-78.61408864934084, -8.593468855494379],
+            [-78.61381581642715, -8.594376097037834],
+            [-78.61514455117022, -8.594780319969553]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.4.27",
+          "id": 1032,
+          "name": "ILUSION.O.4.27",
+          "state": {
+            "area": 1.6065,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61486490254089, -8.595709825335229],
+            [-78.61513816227416, -8.59480778978733],
+            [-78.61380614895145, -8.594412971935483],
+            [-78.61353222462148, -8.595320256045508],
+            [-78.61486490254089, -8.595709825335229]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.4.28",
+          "id": 1036,
+          "name": "ILUSION.O.4.28",
+          "state": {
+            "area": 1.5995,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61732882171309, -8.592371893873851],
+            [-78.61760893646724, -8.591450058503595],
+            [-78.61626975971024, -8.591042454271943],
+            [-78.61599790788512, -8.591970894769565],
+            [-78.61732882171309, -8.592371893873851]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.4.34",
+          "id": 1022,
+          "name": "ILUSION.O.4.34",
+          "state": {
+            "area": 1.64101,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61705402819818, -8.593304642704252],
+            [-78.61731371606616, -8.592410308028764],
+            [-78.61598540670066, -8.592005239259864],
+            [-78.61570870086693, -8.592902954814177],
+            [-78.61705402819818, -8.593304642704252]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.4.35",
+          "id": 1027,
+          "name": "ILUSION.O.4.35",
+          "state": {
+            "area": 1.59144,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.61677503591349, -8.594242265887702],
+            [-78.6170424142835, -8.593349130325391],
+            [-78.61569684657525, -8.592938701923837],
+            [-78.61542938236158, -8.593834715666404],
+            [-78.61677503591349, -8.594242265887702]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.4.36",
+          "id": 1031,
+          "name": "ILUSION.O.4.36",
+          "state": {
+            "area": 1.60011,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.6164942318313, -8.595178212372602],
+            [-78.61676489095255, -8.594277236801513],
+            [-78.6154209027492, -8.593872531210964],
+            [-78.61514455117022, -8.594780319969553],
+            [-78.6164942318313, -8.595178212372602]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.4.37",
+          "id": 1035,
+          "name": "ILUSION.O.4.37",
+          "state": {
+            "area": 1.618,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [-78.6162219748472, -8.596108880688746],
+            [-78.61648656966827, -8.59520746183049],
+            [-78.61513816227416, -8.59480778978733],
+            [-78.61486490254089, -8.595709825335229],
+            [-78.6162219748472, -8.596108880688746]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "unit": {
+          "full_name": "lote ILUSION.O.4.38",
+          "id": 1039,
+          "name": "ILUSION.O.4.38",
+          "state": {
+            "area": 1.61726,
+            "density": [null],
+            "pruning_date": ["2018-07-01"],
+            "variety": ["emerald"],
+            "year_of_planting": ["2018"]
+          }
+        },
+        "values": []
+      },
+      "type": "Feature"
+    }
+  ],
+  "setup": {
+    "cartography": {
+      "name": "Cartograf\u00eda de lote",
+      "unit_name": "lote"
+    },
+    "data_type": "float",
+    "inverted_legend": true,
+    "legend": [2.0, 4.0, 6.0],
+    "measurement_unit": "d\u00edas",
+    "variable": {
+      "category": "Producci\u00f3n",
+      "name": "D\u00edas sin cosechar",
+      "requires_time": false
+    }
+  }
+}
